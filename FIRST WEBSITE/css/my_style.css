@@ -99,16 +99,16 @@ a:hover{
   margin-right: 30px;
 }
 
-.betraying {
-  width: 30%;
-  float: left;
-  margin-right: 30px;
-}
-
 .one_piece {
   width: 40%;
   margin: 30px 0 0 0;
   float: right;
+}
+
+.betraying {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
 }
 
 .sleep {
